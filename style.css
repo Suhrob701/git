@@ -1,0 +1,43 @@
+.uh{
+color: #311313;
+width:700px;
+background-color:#311313;
+color: white;
+font-size:70px;
+text-align: center;
+margin: 0 auto;
+margin-bottom: 30px;
+
+
+}
+.main{
+    border: 5px solid red;
+    width: 600px;
+    padding:30px;
+    margin: 0 auto;
+    background-color: black;
+}
+.pad{
+    border: 2px solid black;
+    background-color:aqua;
+    padding: 20px;
+
+}
+.suha{
+    background-color: #2A5D5A;
+    padding: 30px;
+    margin: 30px;  
+}
+.main{
+    width: 600px;
+    border: 5px solid red;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: black;
+
+}
+.pad{
+    border: 2px solid black;
+    padding: 30px;
+    background-color:aqua;
+}
